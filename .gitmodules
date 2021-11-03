@@ -1,0 +1,3 @@
+[submodule "argo-workflows"]
+	path = argo-workflows
+	url = ../argo-workflows.git
